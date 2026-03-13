@@ -8,7 +8,7 @@ on:
         required: true
         default: 'blegeztyy'
       agent_description:
-        description: 'Cuan'
+        description: 'blegeztyy'
         required: true
         default: 'blegeztyy AI Agent'
 
